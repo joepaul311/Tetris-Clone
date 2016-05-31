@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-03-11T09:32:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2013-03-11T09:35:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Time>2013-03-15T09:27:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont4.spritefont</Source>
+      <Name>SpriteFont4</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont4.xnb</Output>
+      <Time>2013-03-20T09:50:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont5.spritefont</Source>
+      <Name>SpriteFont5</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont5.xnb</Output>
+      <Time>2013-03-23T14:53:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>tetris block.png</Source>
+      <Name>tetris block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb</Output>
+      <Time>2013-03-13T10:17:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tetris.jpg</Source>
+      <Name>Tetris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Tetris.xnb</Output>
+      <Time>2013-03-18T17:08:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Original_Tetris_theme_Tetris_Soundtrack.mp3</Source>
+      <Name>Original_Tetris_theme_Tetris_Soundtrack</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.xnb</Output>
+      <Extra>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.wma</Extra>
+      <Time>2013-03-18T16:54:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Earth_Wind_Fire_-_September_With_Lyrics.mp3</Source>
+      <Name>Earth_Wind_Fire_-_September_With_Lyrics</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb</Output>
+      <Extra>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.wma</Extra>
+      <Time>2013-03-19T17:44:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.mp3</Source>
+      <Name>blank</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.xnb</Output>
+      <Extra>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.wma</Extra>
+      <Time>2013-03-19T18:20:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sugarplum.mp3</Source>
+      <Name>sugarplum</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.xnb</Output>
+      <Extra>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.wma</Extra>
+      <Time>2013-03-19T19:14:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>prayer.mp3</Source>
+      <Name>prayer</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.xnb</Output>
+      <Extra>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.wma</Extra>
+      <Time>2013-03-19T20:25:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>TetrisAudio.mp3</Source>
+      <Name>TetrisAudio</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.xnb</Output>
+      <Extra>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.wma</Extra>
+      <Time>2013-03-19T21:29:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bonito.mp3</Source>
+      <Name>Bonito</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.xnb</Output>
+      <Extra>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.wma</Extra>
+      <Time>2013-03-19T21:43:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>TIL.mp3</Source>
+      <Name>TIL</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.xnb</Output>
+      <Extra>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.wma</Extra>
+      <Time>2013-03-19T21:43:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>prayer3.mp3</Source>
+      <Name>prayer3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.xnb</Output>
+      <Extra>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.wma</Extra>
+      <Time>2013-03-20T16:37:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ZARATHUSTRACUT.mp3</Source>
+      <Name>ZARATHUSTRACUT</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb</Output>
+      <Extra>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.wma</Extra>
+      <Time>2013-03-20T22:26:28-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Complete\Tetris\XNA Tetris\XNA TetrisContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Complete\Tetris\XNA Tetris\XNA Tetris\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Complete\Tetris\XNA Tetris\XNA TetrisContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-20T13:04:00.3251163-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

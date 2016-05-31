@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA Tetris", "XNA Tetris\XNA Tetris\XNA Tetris.csproj", "{721C337B-BF05-489F-A79A-28CA6F7DF1D7}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XNA TetrisContent", "XNA Tetris\XNA TetrisContent\XNA TetrisContent.contentproj", "{6B742997-3C27-4162-A0D8-18570308CEAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{721C337B-BF05-489F-A79A-28CA6F7DF1D7}.Debug|x86.ActiveCfg = Debug|x86
+		{721C337B-BF05-489F-A79A-28CA6F7DF1D7}.Debug|x86.Build.0 = Debug|x86
+		{721C337B-BF05-489F-A79A-28CA6F7DF1D7}.Release|x86.ActiveCfg = Release|x86
+		{721C337B-BF05-489F-A79A-28CA6F7DF1D7}.Release|x86.Build.0 = Release|x86
+		{6B742997-3C27-4162-A0D8-18570308CEAA}.Debug|x86.ActiveCfg = Debug|x86
+		{6B742997-3C27-4162-A0D8-18570308CEAA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

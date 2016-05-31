@@ -1,0 +1,13 @@
+E:\XNA Tetris\XNA Tetris\XNA TetrisContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA Tetris\XNA Tetris\XNA TetrisContent\obj\x86\Debug\XNA TetrisContent.contentprojResolveAssemblyReference.cache
+F:\XNA Tetris ver 2\XNA Tetris\XNA TetrisContent\obj\x86\Debug\XNA TetrisContent.contentprojResolveAssemblyReference.cache
+E:\XNA Tetris ver 2\XNA Tetris\XNA TetrisContent\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\XNA Tetris ver 2\XNA Tetris\XNA TetrisContent\obj\x86\Debug\XNA TetrisContent.contentprojResolveAssemblyReference.cache
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA TetrisContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA TetrisContent\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA TetrisContent\obj\x86\Debug\XNA TetrisContent.contentprojResolveAssemblyReference.cache
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA TetrisContent\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Tetris\XNA Tetris\XNA TetrisContent\obj\x86\Debug\XNA TetrisContent.contentprojResolveAssemblyReference.cache
+E:\Tetris\XNA Tetris\XNA TetrisContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Complete\Tetris\XNA Tetris\XNA TetrisContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Complete\Tetris\XNA Tetris\XNA TetrisContent\obj\x86\Debug\XNA TetrisContent.contentprojResolveAssemblyReference.cache

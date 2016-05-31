@@ -1,0 +1,27 @@
+Content\SpriteFont1.xnb
+Content\SpriteFont2.xnb
+Content\SpriteFont3.xnb
+Content\SpriteFont4.xnb
+Content\SpriteFont5.xnb
+Content\tetris block.xnb
+Content\Tetris.xnb
+Content\Original_Tetris_theme_Tetris_Soundtrack.xnb
+Content\Original_Tetris_theme_Tetris_Soundtrack.wma
+Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb
+Content\Earth_Wind_Fire_-_September_With_Lyrics.wma
+Content\blank.xnb
+Content\blank.wma
+Content\sugarplum.xnb
+Content\sugarplum.wma
+Content\prayer.xnb
+Content\prayer.wma
+Content\TetrisAudio.xnb
+Content\TetrisAudio.wma
+Content\Bonito.xnb
+Content\Bonito.wma
+Content\TIL.xnb
+Content\TIL.wma
+Content\prayer3.xnb
+Content\prayer3.wma
+Content\ZARATHUSTRACUT.xnb
+Content\ZARATHUSTRACUT.wma

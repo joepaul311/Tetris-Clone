@@ -1,0 +1,383 @@
+E:\XNA Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+E:\XNA Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+E:\XNA Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+E:\XNA Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
+E:\XNA Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\XNA Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+E:\XNA Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+F:\XNA Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.csprojResolveAssemblyReference.cache
+F:\XNA Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+F:\XNA Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\XNA Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\XNA Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+F:\XNA Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+F:\XNA Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+F:\XNA Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
+E:\XNA Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+F:\XNA Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.csprojResolveAssemblyReference.cache
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.wma
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Tetris.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Tetris.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.wma
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.wma
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.wma
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.wma
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.wma
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.wma
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.wma
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.wma
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.wma
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.wma
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.wma
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.wma
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.wma
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.wma
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.wma
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont4.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont4.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.wma
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.wma
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.wma
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.wma
+F:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont5.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont4.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont5.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Tetris.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.wma
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.wma
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.wma
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.wma
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.wma
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.wma
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.wma
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.wma
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.wma
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.wma
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.csprojResolveAssemblyReference.cache
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+J:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont4.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont5.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Tetris.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.wma
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.wma
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.wma
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.wma
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.wma
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.wma
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.wma
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.wma
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.wma
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.wma
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+E:\TetrisNEW\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont4.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont5.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Tetris.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.wma
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.wma
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.wma
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.wma
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.wma
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.wma
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.wma
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.wma
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.wma
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.wma
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+F:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont4.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont5.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Tetris.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.wma
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.wma
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.wma
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.wma
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.wma
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.wma
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.wma
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.wma
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.wma
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.wma
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.csprojResolveAssemblyReference.cache
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+J:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont4.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont5.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Tetris.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.wma
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.wma
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.wma
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.wma
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.wma
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.wma
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.wma
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.wma
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.wma
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.wma
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+E:\Tetris With Sidemoving (4-8)\XNA Tetris ver 2\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
+E:\XNA Tetris ver 2\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont5.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont4.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont5.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Tetris.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.wma
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.wma
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.wma
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.wma
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.wma
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.wma
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.wma
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.wma
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.wma
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.wma
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+J:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+J:\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.csprojResolveAssemblyReference.cache
+J:\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+J:\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont4.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont5.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Tetris.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.wma
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.wma
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.wma
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.wma
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.wma
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.wma
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.wma
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.wma
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.wma
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.wma
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+E:\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+E:\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+E:\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont4.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont5.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Tetris.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.wma
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.wma
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.wma
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.wma
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.wma
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.wma
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.wma
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.wma
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.wma
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.wma
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+E:\Complete\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont3.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont4.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\SpriteFont5.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\tetris block.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Tetris.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.xnb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Original_Tetris_theme_Tetris_Soundtrack.wma
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Earth_Wind_Fire_-_September_With_Lyrics.wma
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\blank.wma
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\sugarplum.wma
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer.wma
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TetrisAudio.wma
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\Bonito.wma
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\TIL.wma
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\prayer3.wma
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\Content\ZARATHUSTRACUT.wma
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.exe
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\bin\x86\Debug\XNA Tetris.pdb
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.csprojResolveAssemblyReference.cache
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.exe
+F:\Complete\Tetris\XNA Tetris\XNA Tetris\obj\x86\Debug\XNA Tetris.pdb
